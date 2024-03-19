@@ -1,6 +1,9 @@
 ##PROJETO INTEGRADOR: DESdENVOLVIMENTO DE SISTEMAS ORIENTADOS A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB##
 
-![scrre](static/IMG/layout.jpeg)
+
+![scrre](PTI/static/IMG/home.png)
+
+![scrre](PTI/static/IMG/cards.png)
 
 **Integrantes do grupo:** 
 - CARLOS HENRIQUE DE CASTRO CAAMANO
