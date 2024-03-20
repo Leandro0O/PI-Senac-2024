@@ -3,6 +3,8 @@
 
 ![scrre](PTI/static/IMG/home.png)
 
+![scrre](PTI/static/IMG/welcome.png)
+
 ![scrre](PTI/static/IMG/cards.png)
 
 **Integrantes do grupo:** 
