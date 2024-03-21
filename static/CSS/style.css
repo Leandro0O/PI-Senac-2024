@@ -12,3 +12,11 @@ img{
     max-width: 400px;
     margin: auto;
 }
+.rounded-circle.custom-round {
+    border-radius: 50%;
+  }
+.rounded-corners{
+
+    border-radius:10px;
+    overflow: hidden;
+}
