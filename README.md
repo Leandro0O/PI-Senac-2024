@@ -1,6 +1,5 @@
-# PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADOS A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB ##
+# PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADOS A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB ##  
 
-<br>
 ## Protótipos das Telas de Login, Personas e Welcome
 
 Este repositório contém a primeira entrega referente aos protótipos das telas de login, personas e welcome do projeto <b>Walk The Dog</b>. 
